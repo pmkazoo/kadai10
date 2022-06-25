@@ -1,0 +1,28 @@
+.draw-name{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header{
+    text-align: center;
+}
+
+body{
+    background-color:beige
+}
+
+.drawing-wrapper{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.aquarium-wrapper{
+    text-align: center;
+    margin-top: 100px;
+}
+
+dd{
+    margin-right: 30px;
+}
+
